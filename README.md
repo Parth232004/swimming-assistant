@@ -25,3 +25,7 @@ nano .gitignore
 __pycache__/
 *.pyc
 *.json
+git remote add origin https://github.com/Parth Chaugule/swimming-assistant.git
+git branch -M main
+git push -u origin main
+
